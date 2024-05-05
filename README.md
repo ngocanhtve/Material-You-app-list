@@ -140,6 +140,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ---
 ## 🆕 Newly Added Apps!
 *Last **25 apps** that were recently added to list!*
+- `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
+- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 - `MDY` [Disky](https://github.com/newhinton/disky) <sup>`FOSS`</sup>
 - `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
 - `MD` [Snappr](https://github.com/Iamlooker/Snappr/releases) <sup>`FOSS`</sup>
@@ -299,6 +301,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
 - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`FOSS`</sup>
 - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`FOSS`</sup>
+- `MD` [Voyage](https://github.com/dluvian/voyage) <sup>`FOSS`</sup>
 - `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -336,6 +339,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 - **Tracking Services**
 	- `MDY` [Openreads](https://github.com/mateusz-bak/openreads-android) <sup>`FOSS`</sup>
 	- `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
+	- `MDY` [Kitsune](https://github.com/Drumber/Kitsune) <sup>`FOSS`</sup>
 	- `MD` [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
